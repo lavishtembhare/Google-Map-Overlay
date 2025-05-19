@@ -20,22 +20,6 @@ This is a simple Android application built in **Java** that demonstrates how to 
 
 ---
 
-## 📦 Project Structure
-
-Google_Map_Overlay/
-├── app/
-│ ├── src/
-│ │ ├── main/
-│ │ │ ├── java/com/example/google_map_overlay/
-│ │ │ │ ├── MainActivity.java
-│ │ │ │ └── MapsActivity.java
-│ │ │ ├── res/layout/
-│ │ │ │ ├── activity_main.xml
-│ │ │ │ └── activity_maps.xml
-│ │ │ └── AndroidManifest.xml
-│ └── build.gradle
-
-
 ## 🔑 Getting Started
 
 ### 1. Clone this Repository
